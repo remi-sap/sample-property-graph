@@ -1,3 +1,4 @@
+#pip3 install hdbcli argparse urllib
 from hdbcli import dbapi
 
 import urllib.request
